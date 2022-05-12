@@ -1,0 +1,15 @@
+E:\coding\socket_networking\socket_test\bin\Debug\net6.0\socket_test.exe
+E:\coding\socket_networking\socket_test\bin\Debug\net6.0\socket_test.deps.json
+E:\coding\socket_networking\socket_test\bin\Debug\net6.0\socket_test.runtimeconfig.json
+E:\coding\socket_networking\socket_test\bin\Debug\net6.0\socket_test.dll
+E:\coding\socket_networking\socket_test\bin\Debug\net6.0\socket_test.pdb
+E:\coding\socket_networking\socket_test\obj\Debug\net6.0\socket_test.csproj.AssemblyReference.cache
+E:\coding\socket_networking\socket_test\obj\Debug\net6.0\socket_test.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\socket_networking\socket_test\obj\Debug\net6.0\socket_test.AssemblyInfoInputs.cache
+E:\coding\socket_networking\socket_test\obj\Debug\net6.0\socket_test.AssemblyInfo.cs
+E:\coding\socket_networking\socket_test\obj\Debug\net6.0\socket_test.csproj.CoreCompileInputs.cache
+E:\coding\socket_networking\socket_test\obj\Debug\net6.0\socket_test.dll
+E:\coding\socket_networking\socket_test\obj\Debug\net6.0\refint\socket_test.dll
+E:\coding\socket_networking\socket_test\obj\Debug\net6.0\socket_test.pdb
+E:\coding\socket_networking\socket_test\obj\Debug\net6.0\socket_test.genruntimeconfig.cache
+E:\coding\socket_networking\socket_test\obj\Debug\net6.0\ref\socket_test.dll
